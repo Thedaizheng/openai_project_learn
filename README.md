@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo.svg" style="width: 25%; height: auto;">
-</p>
-
 # A simple question and answer interface implemented based on Openai interface
 
 ## Installation
