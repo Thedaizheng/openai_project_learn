@@ -5,11 +5,7 @@
 # A simple question and answer interface implemented based on Openai interface
 
 ## Installation
-
-
-To install the knowledge storm library, use `pip install knowledge-storm`. 
-
-You could also install the source code which allows you to modify the behavior of STORM engine directly.
+For this simple system, we need to obtain an api_key ourselves to use and fill it in the env file.
 1. Clone the git repository.
     ```shell
     git clone https://github.com/Thedaizheng/openai_project_learn.git
